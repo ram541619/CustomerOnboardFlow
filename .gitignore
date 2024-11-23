@@ -1,0 +1,39 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio files
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+
+# Project-specific build directories
+CustomerOnboard.API/[Bb]in/
+CustomerOnboard.API/[Oo]bj/
+CustomerOnboard.Application/[Bb]in/
+CustomerOnboard.Application/[Oo]bj/
+CustomerOnboard.Infrastructure/[Bb]in/
+CustomerOnboard.Infrastructure/[Oo]bj/
+CustomerOnboarding.Core/[Bb]in/
+CustomerOnboarding.Core/[Oo]bj/
+CustomerOnboard.API/bin
+CustomerOnboard.API/obj
+CustomerOnboard.Application/bin
+CustomerOnboard.Application/obj
+CustomerOnboard.Infrastructure/bin
+CustomerOnboard.Infrastructure/obj
+CustomerOnboard.Core/bin
+CustomerOnboard.Core/obj
+# SQLite database files
+*.db
+*.db-shm
+*.db-wal
+
+# NuGet packages
+packages/
+*.nupkg
